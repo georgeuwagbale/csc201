@@ -25,8 +25,6 @@ int main(){
     cout << "Constant: \n";
     cin >> f;
 
-
-
     dn = (a * d) - (b * c);
     x = ((e * d) - (b * f)) /dn;
     y = ((a * f) - (e * c)) /dn;
