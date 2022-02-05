@@ -1,0 +1,3 @@
+C:/Users/uwagb/CLionProjects/csc201/cmake-build-debug/CMakeFiles/csc201.dir
+C:/Users/uwagb/CLionProjects/csc201/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/uwagb/CLionProjects/csc201/cmake-build-debug/CMakeFiles/rebuild_cache.dir
