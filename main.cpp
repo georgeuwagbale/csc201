@@ -4,8 +4,8 @@
 
 #include <iostream>
 #include "result_management_system.cpp"
-
+#include "authentification.cpp"
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
     return 0;
 }

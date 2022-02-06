@@ -32,7 +32,7 @@ public:
                 file>>first_name>>last_name>>matric_no>>CSC201>>CSC205>>MTH201>>MTH203>>GST201>>GPA;
                 if(!strcmp(auth_matric_no, matric_no)) break;
             }
-            if(strcmp(auth_matric_no, matric_no) != ) cout << "File not found" << endl;
+            if(strcmp(auth_matric_no, matric_no) !=0 ) cout << "File not found" << endl;
             else{
                 cout << "Student name: " << first_name << " " << last_name << endl;
                 cout << "Matric No: " << matric_no <<"\n"<< "CSC201: "<<CSC201<<endl;
