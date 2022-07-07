@@ -3,4 +3,4 @@ project(csc201)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(csc201 main.cpp)
+add_executable(csc201 main.cpp )
